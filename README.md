@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ali Hussnain Nawaz
 
-<!--
-**makhulumei/makhulumei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Data Scientist focused on Python, SQL, ETL, data automation and data quality.
 
-Here are some ideas to get you started:
+I build reliable data-processing tools that make tabular data easier to validate, trace and use. My current work centres on practical data engineering, backend services and clear, reproducible evidence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Data Quality Pipeline](https://github.com/makhulumei/data-quality-pipeline)
+
+A clean-room Python pipeline for CSV, XLSX and JSON. It normalizes, validates, deduplicates and profiles data through Python, a CLI and FastAPI, with optional PostgreSQL persistence.
+
+- Python, Pandas, Pydantic, FastAPI and SQLAlchemy/PostgreSQL
+- 45 tests with 93.55% branch coverage
+- Docker and GitHub Actions
+- Reproducible 1.01M-row synthetic benchmark
+
+## Core tools
+
+Python · SQL · ETL · Pandas · PostgreSQL · FastAPI · Data Quality · Data Validation · Power BI · Docker · pytest · Git/GitHub
